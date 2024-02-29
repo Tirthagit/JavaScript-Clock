@@ -24,10 +24,11 @@ To use this JavaScript Clock in your project, you can follow these steps:
 
 Clone the "JavaScript-Clock" repository from GitHub:
 
+```bash
 git clone https://github.com/your-username/JavaScript-Clock.git
 
 Navigate into the cloned "JavaScript-Clock" directory:
-
+```bash
 cd JavaScript-Clock
 
 ### Download ZIP
