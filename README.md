@@ -9,6 +9,8 @@ for a visually striking appearance.
 
 You can see a live demo of the JavaScript clock [here](https://tirthagit.github.io/JavaScript-Clock/).
 
+Click here to watch the demo 👉 `https://tirthagit.github.io/JavaScript-Clock/`
+
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tirthagit/JavaScript-Clock/blob/main/LISENCE.md) file for details.
 ## Installation
 
